@@ -30,7 +30,7 @@ public class OperatorAssingment {
 		A1 %= A2;// Sisa bagi, sekarang sisa bagi = 0
 		System.out.println("sisa bagi:" + A1);
 		// TODO Auto-generated method stub
-
+//
 	}
 
 }
