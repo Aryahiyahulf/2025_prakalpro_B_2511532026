@@ -25,7 +25,7 @@ public class OperatorRelasional {
 		hasil = A1 == A2;// Apakah A1 samadenganA2?
 		System.out.println("A1 == A2" + hasil);
 		hasil = A1 != A2;// Apakah A1 samadenganA2?
-		System.out.println("A1 != A2" + hasil);//
+		System.out.println("A1 != A2" + hasil);///
 		
 	}
 
